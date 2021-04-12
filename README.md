@@ -19,4 +19,4 @@ headers:
 
 
 Link:
-https://ml-model-deployment.azurewebsites.net/predict
+https://ml-model-deployment.azurewebsites.net/prediction
